@@ -1,0 +1,1 @@
+10 * * * * /home/linhvm4/anaconda3/envs/udacity4/bin/python /home/linhvm4/udacity4/app.py && /home/linhvm4/anaconda3/envs/udacity4/bin/python /home/linhvm4/udacity4/fullprocess.py

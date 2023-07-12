@@ -1,0 +1,55 @@
+Model Predictions
+[
+  0, 
+  1, 
+  1, 
+  1, 
+  1
+]
+
+Model Score
+0.5714285714285715
+Statistics Summary
+{
+  "lastmonth_activity": {
+    "mean": 165.65384615384616, 
+    "median": 73.0, 
+    "stdv": 284.0332293669446
+  }, 
+  "lastyear_activity": {
+    "mean": 1502.923076923077, 
+    "median": 955.0, 
+    "stdv": 2192.64495845683
+  }, 
+  "number_of_employees": {
+    "mean": 26.884615384615383, 
+    "median": 14.0, 
+    "stdv": 31.35388578543581
+  }
+}
+
+Diagnostics Summary
+{
+  "execution_time": [
+    0.3341234995110426, 
+    0.5709249296050984
+  ], 
+  "missing_percentage": {
+    "corporation": {
+      "percentage": 0.0
+    }, 
+    "exited": {
+      "percentage": 0.0
+    }, 
+    "lastmonth_activity": {
+      "percentage": 0.0
+    }, 
+    "lastyear_activity": {
+      "percentage": 0.0
+    }, 
+    "number_of_employees": {
+      "percentage": 0.0
+    }
+  }, 
+  "outdated_packages": ""
+}
